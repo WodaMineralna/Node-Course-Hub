@@ -1,5 +1,5 @@
 # Node-Course-Hub
-Collection of Node.js course projects, challenges, and practice work.
+Index of Node.js course projects, challenges, and practice work.
 
 
 ✨ Initial version
